@@ -1,4 +1,4 @@
-I work at Trend Micro (joined 5/22/2025) and mostly spend my time breaking things on purpose so I can understand how they work. I love reverse engineering, digging through odd binaries, and wandering into whatever security rabbit hole catches my attention that week.
+hey, I'm Fumie, I mostly spend my time breaking things on purpose so I can understand how they work. I love reverse engineering, digging through odd binaries, and wandering into whatever security rabbit hole catches my attention that week.
 
 English is my second language, so if something I say sounds a little funny sometimes… sorry in advance :p
 
